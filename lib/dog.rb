@@ -10,4 +10,6 @@ class Dog
   end
 end
 end
+fido.name = "Fido"
+end
      
